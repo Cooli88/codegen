@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Cooli88\codegen;
+namespace cooli88\codegen;
 
 
 class Generator

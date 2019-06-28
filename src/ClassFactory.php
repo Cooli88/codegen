@@ -1,6 +1,6 @@
 <?php
 
-namespace Cooli88\codegen;
+namespace cooli88\codegen;
 
 
 use Nette\PhpGenerator\ClassType;
