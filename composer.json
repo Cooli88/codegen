@@ -1,0 +1,22 @@
+{
+    "name": "Cooli88/codegen",
+    "description": "A simple library to generate php classes form json-schema.",
+    "homepage": "https://github.com/Cooli88/codegen",
+    "authors": [
+        {
+            "name": "Dogov Fedor",
+            "email": "cooli777@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "BSD-3-Clause",
+    "require": {
+        "php": ">=7.0.0",
+        "nette/php-generator": "^3.2@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cooli88\\codegen\\": "src"
+        }
+    }
+}
