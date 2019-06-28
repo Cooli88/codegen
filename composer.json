@@ -18,5 +18,8 @@
         "psr-4": {
             "Cooli88\\codegen\\": "src"
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
 }
