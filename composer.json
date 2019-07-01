@@ -16,10 +16,9 @@
     },
     "autoload": {
         "psr-4": {
-            "Cooli88\\codegen\\": "src"
+            "cooli88\\codegen\\": "src"
         }
     },
-    "minimum-stability": "v1.0.0-stable",
-    "stability-flags": [],
+    "minimum-stability": "v1.0.2-stable",
     "prefer-stable": true
 }
