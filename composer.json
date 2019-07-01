@@ -19,7 +19,7 @@
             "Cooli88\\codegen\\": "src"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "v1.0.0-stable",
     "stability-flags": [],
     "prefer-stable": true
 }
