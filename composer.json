@@ -19,6 +19,6 @@
             "cooli88\\codegen\\": "src"
         }
     },
-    "minimum-stability": "v1.0.2-stable",
+    "minimum-stability": "0.0.1",
     "prefer-stable": true
 }
